@@ -83,4 +83,6 @@ archive_generator:
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:YabZhang/yabzhang.github.io.git
+  branch: master
