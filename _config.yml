@@ -30,6 +30,7 @@ skip_render:
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
+auto_spacing: true # auto insert space between ch and eng chars
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
@@ -41,7 +42,7 @@ highlight:
   enable: true
   line_number: true
   auto_detect: false
-  tab_replace:
+  tab_replace: true
   
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
