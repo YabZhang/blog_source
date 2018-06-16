@@ -1,12 +1,11 @@
 ---
 title: review-基本算法
+description: 基础算法
 date: 2017-08-05 21:06:23
 tags:
 ---
 
-### prologue
-
-复习基本的算法。
+本篇主要是复习下基本的算法。
 
 ### basic algo.
 
