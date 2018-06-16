@@ -4,9 +4,8 @@ date: 2017-08-05 14:23:49
 tags:
 ---
 
-### prologue
-
-复习下基本的数据结构。
+复习基础的数据结构（栈，队列，链表）。
+<!--more-->
 
 ### basic data structure
 

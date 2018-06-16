@@ -6,6 +6,9 @@ tags:
  - automation
 ---
 
+`buildout`构建工具的使用记录。
+<!--more-->
+
 ### prologue
 
 {% blockquote buildout doc, http://docs.buildout.org %}
